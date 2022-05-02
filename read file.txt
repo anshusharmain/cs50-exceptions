@@ -1,0 +1,11 @@
+Try except (https://www.w3schools.com/python/python_try_except.asp)
+
+#Code in line 4 to 7
+try and except is like IF else
+
+After that code add else in code because to program if all the conditon is true then print that statement or perform the task
+
+then I add LOOP in this, after that I add loop the program repeat print till the get true. if I remove break then it continuly asking the same question even answer is True
+
+#note: return is used to return out from funtion and break is used to break the loop but retune is strong then break it and return the answer
+ 
